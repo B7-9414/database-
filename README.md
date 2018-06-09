@@ -23,7 +23,7 @@ select * from company; // Basic Syntax to display database
 .quit // stop using sqlite 
 
 ** also you can open it with DB browser to see the database 
-====================================================================================
+===================================================================================
 Python : 
 create_table() // make sure that after you create the table mark it as comment 
 Insert_data()  // make sure that after you insert the data  mark it as comment 
@@ -31,7 +31,7 @@ read_from_db() // read the data after creatd the table and inserted the data
 
 ** after you running the program, it should create a file called Database_py3.db 
    open the Database_py3.db file with DB browesr or using sqlite3
-====================================================================================
+===================================================================================
 
 
 
