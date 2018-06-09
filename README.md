@@ -5,6 +5,7 @@ installation (ubuntu):
 
 sudo apt-get install sqlitebro
 sudo apt install sqlite3 (using terminal)
+
 ===================================================================================
 
 installation (windows):
